@@ -70,17 +70,4 @@ We welcome contributions! If you're passionate about agri-tech, ML, or rural dev
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
-Let me know if you want:
-
-* a **section for ML model details**
-* a **lightweight version** for submission
-* **Next.js version**
-* a **hosted demo deploy plan (Render, Vercel, Netlify)**
-
-Ready to format and push this directly into your repo if you want.
+## Team POWERPUFF GIRLS
