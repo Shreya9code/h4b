@@ -1,7 +1,3 @@
-Here's a polished `README.md` draft for your **Farm Intelligence** project based on the key highlights you gave:
-
----
-
 # 🌾 Farm Intelligence
 
 An all-in-one AI-powered platform to empower farmers with disease detection, outbreak forecasting, expert advice, learning resources, and government scheme access — even in low-connectivity regions.
