@@ -69,5 +69,3 @@ An all-in-one AI-powered platform to empower farmers with disease detection, out
 We welcome contributions! If you're passionate about agri-tech, ML, or rural development, feel free to fork, clone, and raise a PR.
 
 ---
-
-## Team POWERPUFF GIRLS
